@@ -9,7 +9,7 @@
 import UIKit
 import QuartzCore
 
-@objc public class PopUpViewControllerSwift : UIViewController {
+public class PopUpViewControllerSwift : UIViewController {
     
     @IBOutlet weak var popUpView: UIView!
     @IBOutlet weak var messageLabel: UILabel!
