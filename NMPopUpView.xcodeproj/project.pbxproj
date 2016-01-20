@@ -16,7 +16,6 @@
 		D4E09DC71C4FEB100057B70C /* PopUpViewController_iPhone6.xib in Sources */ = {isa = PBXBuildFile; fileRef = D4C00BC91C4DE31500C5078D /* PopUpViewController_iPhone6.xib */; };
 		D4E09DC81C4FEB100057B70C /* PopUpViewController_iPhone6Plus.xib in Sources */ = {isa = PBXBuildFile; fileRef = D4C00BCA1C4DE31500C5078D /* PopUpViewController_iPhone6Plus.xib */; };
 		D4E09DC91C4FEB100057B70C /* PopUpViewController.xib in Sources */ = {isa = PBXBuildFile; fileRef = D4C00BCB1C4DE31500C5078D /* PopUpViewController.xib */; };
-		D4E09DCA1C4FEB200057B70C /* Info.plist in Sources */ = {isa = PBXBuildFile; fileRef = D4C00BC21C4DE2E800C5078D /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -150,7 +149,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D4E09DCA1C4FEB200057B70C /* Info.plist in Sources */,
 				D4E09DC61C4FEB100057B70C /* PopUpViewController_iPad.xib in Sources */,
 				D4E09DC71C4FEB100057B70C /* PopUpViewController_iPhone6.xib in Sources */,
 				D4E09DC81C4FEB100057B70C /* PopUpViewController_iPhone6Plus.xib in Sources */,
